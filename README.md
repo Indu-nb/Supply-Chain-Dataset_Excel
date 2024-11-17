@@ -1,4 +1,5 @@
 This is a Supply Chain dataset related to MakeUp domain. 
+
 You can find this dataset on Kaggle: https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis
 This dataset has the following parameters (each with 100 values): Product Type (Skincare, Haircare, Cosmetics), SKU, Price, Availability, Number of products sold, Revenue generated, Customer demographics, Stock levels, Lead times, Order quantities, 
 Shipping times, Shipping carriers, Shipping costs, Supplier name, Location, Lead time, Production volumes, Manufacturing lead time, Manufacturing costs, Inspection results, Defect rates, Transportation modes, Routes,
