@@ -4,6 +4,18 @@ This dataset has the following parameters (each with 100 values): Product Type (
 Shipping times, Shipping carriers, Shipping costs, Supplier name, Location, Lead time, Production volumes, Manufacturing lead time, Manufacturing costs, Inspection results, Defect rates, Transportation modes, Routes,
 Costs
 
+Data analysis techniques used are: 
+Data Pre-processing: Go To Special for identifying blank and duplicate entries, Trim and Proper function to remove in-between spaces in text entries
+Data Exploration: Box Plot, Scatter Plot, Xlookup, Vlookup, Filter, Transpose, Sort and Unique Function
+Data Analysis: Mean, Min, Max, Quartile.inc, sumif, averageif function
+
+Supply Chain concepts explored are-
+1. EOQ, No of Orders in planning period and Order Frequency
+2. Dashboard Creation for Inventory Management
+3. Order Management Table - Supplier and Manufacturer Interface
+4. Defect Analysis and Quality Improvement Suggestions for each Product Type
+5. Generating Risk Measurement Method Using available parameters and derive insights for each Product Category
+
 This excel file attempts to find answers to these questions:
 1. Which Product category has been the most profitable?
 Ans. Skincare contributes maximum to the revenue and sale count and also has the highest revenue per order.
